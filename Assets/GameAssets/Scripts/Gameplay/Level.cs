@@ -1,0 +1,1 @@
+public enum Level { Zero, One, Two, Three }
